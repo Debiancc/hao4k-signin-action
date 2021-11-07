@@ -1,7 +1,6 @@
 # Hao4K 每日签到 action ![hao4k](https://github.com/cy920820/hao4k-signin-actions/workflows/hao4k/badge.svg)
 
 
-
 ## 友情链接
 
 [掘金每日签到+抽奖脚本](https://github.com/cy920820/juejin-sign-in-action)
